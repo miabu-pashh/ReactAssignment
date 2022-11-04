@@ -1,0 +1,27 @@
+
+h3 {
+  text-align: left;
+  color: black;
+}
+
+.editOne {
+    /* background-color: #92a8d1; */
+  background-color: #80ced6;
+
+    margin: 0px;
+  height: 100%;
+}
+.second {
+  margin: auto;
+  width: 50%;
+}
+
+.textarea-custom {
+  border-radius: 2px;
+  border: 3px solid #dcdcdc;
+
+  min-height: 150px;
+  max-height: 550px;
+  min-width: 100%;
+  max-width: 100%;
+}

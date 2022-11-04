@@ -1,0 +1,82 @@
+.newPost {
+  margin-right: 20px;
+  text-align-last: right;
+}
+
+.main {
+  margin: 0px;
+  height: 100%;
+  /* background-color: #92a8d1; */
+
+  background-color: #80ced6;
+
+
+  position: relative;
+  width: 100%;
+  min-height: 100px;
+  overflow: hidden;
+}
+.card {
+  background-color: #fefbd8;
+  /* background-color: antiquewhite; */
+  /* background-color: #80ced6; */
+  width: 80%;
+  height: 150px;
+  display: flex;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  transform: scale(1.1);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+p {
+  display: inline;
+  white-space: nowrap;
+}
+
+.H2 {
+  font-weight: bold;
+  color: brown;
+  font-size: 25px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+
+}
+/* h3 {
+  font-weight: bold;
+  text-align: center;
+} */
+
+.card1 {
+  overflow: hidden;
+  white-space: nowrap;
+  /* margin: auto; */
+  /* position: relative; */
+  /* height: 150px;
+  /* width: 200px; */
+  width: 1000px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ 
+
+  text-overflow: ellipsis;
+
+  /* background-color: red; */
+  
+
+}

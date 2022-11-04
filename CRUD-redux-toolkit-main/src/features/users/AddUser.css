@@ -1,0 +1,21 @@
+.First {
+  margin: 0px;
+  height: 100%;
+
+  /* background-color: #92a8d1; */
+  background-color: #80ced6;
+
+}
+.textarea-custom {
+  border: 3px solid #dcdcdc;
+
+  min-height: 150px;
+  max-height: 550px;
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.second {
+  margin: auto;
+  width: 50%;
+}
