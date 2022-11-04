@@ -1,2 +1,1 @@
-npm install
-npm start
+project build  vulgar-stone.surge.sh
